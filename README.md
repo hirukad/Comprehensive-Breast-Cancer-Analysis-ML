@@ -6,7 +6,7 @@
 This project predicts whether a tumor is malignant or benign using machine learning.
 
 ## 🧠 Model
-Used Logistic Regression (accuracy: 79.8% on Kaggle).
+Used Classification techniques  (accuracy: 90.3% on Kaggle for random forests).
 
 ## 📈 Dataset
 Breast Cancer Wisconsin dataset (from Kaggle).
